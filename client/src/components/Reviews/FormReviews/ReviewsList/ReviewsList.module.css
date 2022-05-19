@@ -1,0 +1,22 @@
+@value variables: "../../../variables/variables.module.css";
+@value primaryDark, primaryLight from variables;
+
+.ReviewsList {
+  color: primaryDark;
+  width: 100%;
+}
+
+.ReviewsListNav {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
+}
+
+.ReviewsListReview {
+
+}
+
+.ReviewsListTitle {
+  text-align: center;
+  padding-bottom: 20px;
+}

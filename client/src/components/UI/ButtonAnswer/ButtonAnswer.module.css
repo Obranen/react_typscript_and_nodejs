@@ -1,0 +1,21 @@
+@value variables: "../../../../src/components/variables/variables.module.css";
+@value primaryDark, primaryLight, secondary from variables;
+
+.ButtonAnswer {
+  border: 1px solid primaryLight;
+  border-radius: 12px;
+  background-color: secondary;
+  cursor: pointer;
+  color: primaryLight;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  padding: 5px 16px;
+  transition: 0.3s ease;
+}
+
+.ButtonAnswer:hover {
+  border: 1px solid primaryDark;
+  color: primaryDark;
+}

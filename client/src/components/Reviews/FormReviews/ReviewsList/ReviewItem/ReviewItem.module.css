@@ -1,0 +1,31 @@
+@value variables: "../../../../variables/variables.module.css";
+@value primaryDark, primaryLight from variables;
+
+.ReviewItemName {
+  padding-bottom: 10px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.ReviewItemText {
+  padding: 10px 20px;
+  text-indent: 10px;
+}
+
+.ReviewItemText:first-letter {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.ReviewItemAnswer {
+  text-align: right;
+}
+
+.ReviewItemHR {
+  border: 1px solid primaryLight;
+  width: 96%;
+}
+
+.ReviewItemReview {
+
+}

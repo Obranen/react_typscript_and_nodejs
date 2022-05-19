@@ -1,0 +1,55 @@
+POST http://localhost:5000/api/review/create
+Content-Type: application/json
+
+{
+  "nameReview": "Fred",
+  "descReview": "Flintstone"
+}
+
+###
+
+POST http://localhost:5000/api/review/create
+Content-Type: application/json
+
+{
+  "nameReview": "Fred",
+  "descReview": "Flintstone"
+}
+
+<> 2022-05-14T232450.200.json
+
+###
+
+POST http://localhost:5000/api/review/create
+Content-Type: application/json
+
+{
+  "nameReview": "Fred",
+  "descReview": "Flintstone"
+}
+
+<> 2022-05-14T232436.200.json
+
+###
+
+POST http://localhost:5000/api/review/create
+Content-Type: application/json
+
+{
+  "nameReview": "Fred",
+  "descReview": "Flintstone"
+}
+
+###
+
+POST http://localhost:3000/api/review/create
+Content-Type: application/json
+
+{
+
+}
+
+<> 2022-05-14T221053.404.html
+
+###
+

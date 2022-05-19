@@ -1,0 +1,21 @@
+@value variables: "../../../../src/components/variables/variables.module.css";
+@value primary, primaryLight, primaryDark from variables;
+
+.Input {
+  border: none;
+  border-bottom: 2px solid primary;
+  transition: 0.3s ease;
+  display: block;
+  margin: 6px auto;
+  width: 100%;
+  color: primaryDark;
+}
+
+.Input:focus {
+  outline: none;
+  border-bottom: 2px solid primaryDark;
+}
+
+::placeholder {
+  color: primaryLight;
+}

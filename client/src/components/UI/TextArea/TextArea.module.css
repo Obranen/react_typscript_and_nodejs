@@ -1,0 +1,13 @@
+@value variables: "../../../../src/components/variables/variables.module.css";
+@value primary, primaryDark from variables;
+
+.TextArea {
+  resize: none;
+  border: 1px solid primary;
+  color: primaryDark;
+  height: 170px;
+}
+
+.TextArea:focus {
+  outline: 1px solid primaryDark;
+}

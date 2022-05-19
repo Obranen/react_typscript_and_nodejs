@@ -1,0 +1,24 @@
+@value variables: "../../../variables/variables.module.css";
+@value primaryDark from variables;
+
+.AddReviews {
+  text-align: center;
+  color: primaryDark;
+  width: 100%;
+}
+
+.AddReviews h3 {
+  padding-bottom: 20px;
+}
+
+.AddReviews Input {
+  width: 40%;
+}
+
+.AddReviews Button {
+  margin-top: 30px;
+}
+
+.AddReviews TextArea {
+  width: 40%;
+}
