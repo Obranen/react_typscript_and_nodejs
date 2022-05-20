@@ -14,7 +14,7 @@ const FormReviews: FC<IFormReviews> =
   const [reviews, setReviews] = useState<IReviews[]>([])
 
     async function getAll() {
-      const response = await axios.get('/reviews')
+      const response = await axios.get('api/review/getAll')
       .then(function (response) {
         setReviews([...reviews, ...response.data])
       })
