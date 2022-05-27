@@ -2,20 +2,28 @@ import React, {FC} from 'react'
 import classes from './ReviewItem.module.css'
 import {IReviews} from '../../../../../types/types'
 import Button from '../../../../UI/Button/Button'
+import axios from 'axios';
 
 interface IReviewItem {
   review: IReviews
+  removeReview: (review: { _id: number }) => void
 }
 
-const ReviewItem: FC<IReviewItem> = ({review}) => {
-
+const ReviewItem: FC<IReviewItem> = ({review, removeReview}) => {
   const replyHandler = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault()
   }
 
   const deleteHandler = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault()
-    console.log(review._id)
+      axios.delete(`/api/review/delete/${review._id}`)
+      .then(function (response) {
+        console.log(response);
+      })
+      .catch(function (error) {
+        console.log(error);
+      })
+      removeReview(review)
   }
 
   return (

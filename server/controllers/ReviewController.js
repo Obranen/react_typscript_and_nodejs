@@ -12,5 +12,10 @@ export const ReviewController = () => {
     return res.json(reviews)
   }
 
-  return {create, getAll}
+  const deleteReview = async (req) => {
+    const {id} = req.params
+    await Review.findByIdAndDelete(id)
+  }
+
+  return {create, getAll, deleteReview}
 }

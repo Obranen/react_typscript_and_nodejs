@@ -1,10 +1,10 @@
-import React, {FC, useState} from 'react'
-import Input from '../../../UI/Input/Input';
-import Button from '../../../UI/Button/Button';
+import React, {FC, useState, useEffect} from 'react'
+import Input from '../../../UI/Input/Input'
+import Button from '../../../UI/Button/Button'
 import classes from './AddReviews.module.css'
-import TextArea from '../../../UI/TextArea/TextArea';
-import {IReviews} from '../../../../types/types';
-import axios from 'axios';
+import TextArea from '../../../UI/TextArea/TextArea'
+import {IReviews} from '../../../../types/types'
+import axios from 'axios'
 
 interface IAddReviews {
   reviews: IReviews[]
@@ -32,15 +32,17 @@ const AddReviews: FC<IAddReviews> =
 
       axios.post('/api/review/create', newReview)
       .then(function (response) {
-        // console.log(response);
+        setReviews([...reviews, response.data])
+        setReviewValue({nameReview: '', descReview: ''})
       })
       .catch(function (error) {
         console.log(error);
       });
-
-      setReviews([...reviews, newReview])
-      setReviewValue({nameReview: '', descReview: ''})
     }
+
+    useEffect(() => {
+
+    }, [])
 
     const reviewNameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
       setReviewValue({...reviewValue, nameReview: e.target.value})

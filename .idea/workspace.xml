@@ -4,43 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39b54ed5-89a9-4729-9d44-6043f47a0cb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/pages/AdminPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/AllPages.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/constsPages.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/routesPages.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-05-14T221053.404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-05-14T232436.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-05-14T232450.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="946347e0-a96d-4417-8eda-6f7ec9da0b4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/FormReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/FormReviews.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UI/Button/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/Button/Button.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UI/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/Button/Button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UI/ButtonAnswer/ButtonAnswer.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UI/ButtonAnswer/ButtonAnswer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UI/Input/Input.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/Input/Input.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/UI/TextArea/TextArea.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/TextArea/TextArea.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/async/asyncReview.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/pages/AboutPage.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/pages/MainPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/MainPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/pages/ReviewsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/ReviewsPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/routesPages/RoutesPages.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/types/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/types/types.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/variables/variables.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/variables/variables.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/Reviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/Reviews.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/ReviewController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/ReviewController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/review.route.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/review.route.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +30,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.tsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/client/src/components/Reviews/FormReviews/FormReviews.tsx" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/server/app.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/controllers/ReviewController.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/models/Review.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/server/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/routes/review.route.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -79,7 +61,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\My\\WebStormProject\\test\\client\\node_modules\\typescript\\lib&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\My\\WebstormProjects\\test_typescript\\client\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -88,6 +70,16 @@
       <recent name="C:\My\WebStormProject\test\client\src" />
       <recent name="C:\My\WebStormProject\test\client\src\components\pages" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="rest-api_3 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_3.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api_3 | #1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

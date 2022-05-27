@@ -4,12 +4,14 @@ import {IReviews} from '../../../../types/types'
 import ReviewItem from './ReviewItem/ReviewItem'
 
 interface IReviewsList {
-  reviews: IReviews[]
+  reviews: IReviews[],
+  removeReview: (review: { _id: number }) => void
 }
 
 const ReviewsList: FC<IReviewsList> =
   ({
-     reviews
+     reviews,
+     removeReview
    }) => {
 
     return (
@@ -21,8 +23,8 @@ const ReviewsList: FC<IReviewsList> =
           <div>Упорядочить - популярные или новые</div>
         </div>
 
-        {reviews.map((review, index) =>
-          <ReviewItem key={index} review={review}/>
+        {reviews.map((review) =>
+          <ReviewItem removeReview={removeReview} key={review._id} review={review}/>
         )}
       </div>
     );
