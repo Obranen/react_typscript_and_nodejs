@@ -1,5 +1,6 @@
-@value variables: "../../../../variables/variables.module.css";
-@value primaryDark, primaryLight from variables;
+@value variables: "../../../../../variables/variables.module.css";
+
+@value primaryDark, secondary, primaryLight from variables;
 
 .ReviewItemName {
   padding-bottom: 10px;
@@ -26,6 +27,29 @@
   width: 96%;
 }
 
-.ReviewItemReview {
+.ReviewItem Button {
+  border: 1px solid primaryLight;
+  border-radius: 12px;
+  background-color: secondary;
+  cursor: pointer;
+  color: primaryLight;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  padding: 5px 16px;
+  transition: 0.3s ease;
+}
 
+.ReviewItem Button:hover {
+  border: 1px solid primaryDark;
+  color: primaryDark;
+}
+
+.ReviewItemButtonReply {
+  float: right;
+}
+
+.ReviewItemButtonDelete {
+  float: left;
 }

@@ -1,6 +1,6 @@
 import React, {FC} from 'react'
 import classes from './ReviewsList.module.css'
-import {IReviews} from '../../../types/types'
+import {IReviews} from '../../../../types/types'
 import ReviewItem from './ReviewItem/ReviewItem'
 
 interface IReviewsList {

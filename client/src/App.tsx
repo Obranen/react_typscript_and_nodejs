@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.module.css'
-import RoutesPages from './components/routesPages/RoutesPages';
+import AllPages from './pages/AllPages';
 
 function App() {
   return (
     <>
-      <RoutesPages/>
+      <AllPages/>
     </>
   )
 }

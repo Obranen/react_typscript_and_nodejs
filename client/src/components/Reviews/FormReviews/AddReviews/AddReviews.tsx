@@ -3,7 +3,7 @@ import Input from '../../../UI/Input/Input';
 import Button from '../../../UI/Button/Button';
 import classes from './AddReviews.module.css'
 import TextArea from '../../../UI/TextArea/TextArea';
-import {IReviews} from '../../../types/types';
+import {IReviews} from '../../../../types/types';
 import axios from 'axios';
 
 interface IAddReviews {

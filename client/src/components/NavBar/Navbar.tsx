@@ -12,6 +12,7 @@ const Navbar: FC<INavBar> =
         <ul className={classes.NavbarList}>
           <li><Link to="/">Домой</Link></li>
           <li><Link to="/reviews">Отзывы</Link></li>
+          <li><Link to="/admin">Admin</Link></li>
         </ul>
       </nav>
     )

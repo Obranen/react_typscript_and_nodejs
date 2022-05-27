@@ -1,9 +1,6 @@
 import React, {FC} from 'react'
 
-interface IMainPage {}
-
-const MainPage: FC<IMainPage> =
-  ({}) => {
+const MainPage: FC = () => {
     return (
       <>
         <h1>Main</h1>

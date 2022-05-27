@@ -4,6 +4,7 @@ import classes from './Button.module.css'
 interface IButton {
   onClick?: (e: any) => void
   children: React.ReactNode
+  className?: string
 }
 
 const Button: FC<IButton> =

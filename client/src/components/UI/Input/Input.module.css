@@ -1,4 +1,4 @@
-@value variables: "../../../../src/components/variables/variables.module.css";
+@value variables: "../../../variables/variables.module.css";
 @value primary, primaryLight, primaryDark from variables;
 
 .Input {

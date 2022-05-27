@@ -1,5 +1,5 @@
 export interface IReviews {
-  id: number
+  _id: number
   nameReview: string
   descReview: string
 }

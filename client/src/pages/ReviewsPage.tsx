@@ -1,10 +1,7 @@
 import React, {FC} from 'react'
-import Reviews from '../Reviews/Reviews';
+import Reviews from '../components/Reviews/Reviews';
 
-interface IReviewsPage {}
-
-const ReviewsPage: FC<IReviewsPage> =
-  ({}) => {
+const ReviewsPage: FC = () => {
     return (
       <>
         <Reviews/>

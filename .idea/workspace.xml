@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="946347e0-a96d-4417-8eda-6f7ec9da0b4f" name="Default Changelist" comment="">
+    <list default="true" id="39b54ed5-89a9-4729-9d44-6043f47a0cb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/pages/AdminPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/AllPages.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/constsPages.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/routesPages.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-05-14T221053.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-05-14T232436.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-05-14T232450.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/NavBar/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/FormReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/FormReviews.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewItem/ReviewItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Reviews/FormReviews/ReviewsList/ReviewsList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UI/Button/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/Button/Button.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UI/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/Button/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UI/ButtonAnswer/ButtonAnswer.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UI/ButtonAnswer/ButtonAnswer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UI/Input/Input.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/Input/Input.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UI/TextArea/TextArea.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UI/TextArea/TextArea.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/async/asyncReview.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/pages/AboutPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/pages/MainPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/MainPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/pages/ReviewsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/ReviewsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/routesPages/RoutesPages.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/types/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/types/types.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/variables/variables.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/variables/variables.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,38 +50,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
-        <option value="CSS File" />
-        <option value="package.json" />
-        <option value="TypeScript JSX File" />
         <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/client/src/components/Reviews/FormReviews/AddReviews/AddReviews.tsx" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/client/src/components/Reviews/FormReviews/FormReviews.tsx" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/server/app.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/server/controllers/ReviewController.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/server/models/Review.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/server/package.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/server/routes/review.route.js" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="28NZ8j1vgSlLXrQd7PbX09QE5xI" />
+  <component name="ProjectId" id="29brfCGeM65pxsmk4VDYWeDiWI7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -56,86 +74,36 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\My\\WebStormProject\\test\\client\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Dima\My\WebstormProjects\test_typescript" />
-      <recent name="C:\Users\Dima\My\WebstormProjects\test_typescript\server" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dima\My\WebstormProjects\test_typescript\client" />
-      <recent name="C:\Users\Dima\My\WebstormProjects\test_typescript\src\components\style" />
+      <recent name="C:\My\WebStormProject\test\client\src" />
+      <recent name="C:\My\WebStormProject\test\client\src\components\pages" />
     </key>
-  </component>
-  <component name="RunManager" selected="npm.npm start">
-    <configuration name="rest-api_1#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="rest-api_2#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
-    <configuration name="npm start" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="HTTP Request.rest-api_2#1" />
-        <item itemvalue="HTTP Request.rest-api_1#1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="946347e0-a96d-4417-8eda-6f7ec9da0b4f" name="Default Changelist" comment="" />
-      <created>1651058847234</created>
+      <changelist id="39b54ed5-89a9-4729-9d44-6043f47a0cb3" name="Changes" comment="" />
+      <created>1653392735224</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1651058847234</updated>
-      <workItem from="1651058848704" duration="4599000" />
-      <workItem from="1651660795766" duration="1000" />
-      <workItem from="1651660972938" duration="4454000" />
-      <workItem from="1651685885281" duration="16000" />
-      <workItem from="1651733067926" duration="13100000" />
-      <workItem from="1651766659250" duration="7310000" />
-      <workItem from="1651818936685" duration="5211000" />
-      <workItem from="1651833111749" duration="3201000" />
-      <workItem from="1651836356451" duration="635000" />
-      <workItem from="1651857650487" duration="6605000" />
-      <workItem from="1651937856565" duration="14093000" />
-      <workItem from="1651959532409" duration="1252000" />
-      <workItem from="1651992145811" duration="1314000" />
-      <workItem from="1651993480046" duration="844000" />
-      <workItem from="1651994344106" duration="17395000" />
-      <workItem from="1652098850730" duration="25000" />
-      <workItem from="1652432010798" duration="514000" />
-      <workItem from="1652432541785" duration="1672000" />
-      <workItem from="1652435102954" duration="1469000" />
-      <workItem from="1652436593174" duration="6796000" />
-      <workItem from="1652532753785" duration="2289000" />
-      <workItem from="1652535079390" duration="12614000" />
-      <workItem from="1652558838126" duration="1122000" />
-      <workItem from="1652613206760" duration="4795000" />
-      <workItem from="1652708607800" duration="690000" />
-      <workItem from="1652956388775" duration="6140000" />
-      <workItem from="1653038652436" duration="695000" />
-      <workItem from="1653051333969" duration="7543000" />
-      <workItem from="1653065104440" duration="140000" />
-      <workItem from="1653065355488" duration="205000" />
-      <workItem from="1653065574752" duration="284000" />
+      <updated>1653392735224</updated>
+      <workItem from="1653392736560" duration="328000" />
+      <workItem from="1653393130800" duration="66000" />
+      <workItem from="1653393571103" duration="234000" />
+      <workItem from="1653393850273" duration="2138000" />
+      <workItem from="1653568999998" duration="5950000" />
+      <workItem from="1653583155302" duration="10955000" />
+      <workItem from="1653643506769" duration="2879000" />
     </task>
     <servers />
   </component>
@@ -152,9 +120,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
